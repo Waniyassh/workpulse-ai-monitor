@@ -50,3 +50,8 @@ When a meeting is detected, WorkPulse postpones employee check-ins and records t
 ## Project Goal
 
 The project demonstrates cloud integration, desktop monitoring, activity analytics, meeting-aware automation, and Python application development. It was developed as a portfolio and learning project to explore employee engagement analytics and intelligent workflow monitoring.
+
+
+
+
+<img width="1269" height="482" alt="image" src="https://github.com/user-attachments/assets/54002581-f26e-4b0d-a67b-485819950f15" />
