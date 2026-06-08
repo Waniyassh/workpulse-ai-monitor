@@ -1,0 +1,6 @@
+firebase-admin
+python-dotenv
+requests
+psutil
+pynput
+rich
